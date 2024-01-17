@@ -1,4 +1,4 @@
-### Hi there 👋
+### The Movie Ticket Counter project in C++ is a console-based application that simulates a simple ticket booking system for a movie theater. The project provides an intuitive interface for users to select movies, choose showtimes, and purchase tickets. It incorporates fundamental concepts of C++ programming, such as classes, functions, and control structures.
 
 <!--
 **rushilzalke/rushilzalke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
